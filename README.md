@@ -1,4 +1,4 @@
-# 137-α (Project 137-Alpha) ⚛️
+# 137-α (Project 137-Alpha)
 
 **Zero-Shot Semantic Digital Twins for NVIDIA Omniverse**
 *Convergence of 4,096 parallel physics timelines via NVIDIA Warp*
