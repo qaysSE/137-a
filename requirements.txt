@@ -1,0 +1,24 @@
+# NVIDIA Physical Agent Swarm - Production Requirements
+# Hackathon 2026
+
+# Core dependencies (REQUIRED)
+openai>=1.12.0          # NVIDIA API client (OpenAI-compatible)
+python-dotenv>=1.0.0   # Environment variable loading
+numpy>=1.24.0          # Numerical computations
+
+# Video processing (REQUIRED)
+opencv-python>=4.8.0   # Video frame extraction & MHI generation
+
+# Visualization (REQUIRED)
+matplotlib>=3.7.0      # Convergence graphs
+
+# Physics simulation (REQUIRED)
+warp-lang>=1.0.0       # NVIDIA Warp GPU/CPU physics engine
+
+# USD support (Optional - for advanced usage)
+# usd-core>=23.11  # Uncomment if you need USD Python bindings
+
+# Development/Testing (Optional)
+# pytest>=7.4.0
+# black>=23.9.0
+# flake8>=6.0.0
